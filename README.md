@@ -78,9 +78,9 @@ Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidad
 <br />
 
 ---
-<p>Estoy creando una lista con algunos videos de apoyo en <strong>YouTube</strong>, para reforzar aspectos de los temarios que han podido ser confusos de abordar. No dudéis en pasaros (y pedir algunos nuevos, llegado el caso 😊).</p>
-<p>Accede desde <a href="https://www.youtube.com/playlist?list=PLZ8z_hC3p7Vl7Oez-13YkcUHdEUCTRKNw" target="blank"> este enlace</a>.</p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB2cWx1amc3OXYzdnd3dnRsMTNrNmpqYjlmNHh1bHVxMDRsMGcxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HDrGWxOU60erL9uHM2/giphy.gif">
+<p>Estoy creando una lista con algunos videos de apoyo en <strong style="color:antiquewhite;background:red;">YouTube</strong>, para reforzar aspectos de los temarios que han podido ser confusos de abordar. No dudéis en pasaros (y pedir algunos nuevos, llegado el caso 😊).</p>
+<p>Accede pinchando en esta imagen 👉🏼 <a href="https://www.youtube.com/playlist?list=PLZ8z_hC3p7Vl7Oez-13YkcUHdEUCTRKNw" target="blank"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB2cWx1amc3OXYzdnd3dnRsMTNrNmpqYjlmNHh1bHVxMDRsMGcxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bTF4iiCmxK5qkH6rKF/giphy.gif" ></a>.</p>
 Y, por supuesto, si todo esto es de utilidad, espero que añadais una :star: a este repo!.
 
 <br />
